@@ -51,13 +51,18 @@ padding-right: 42px;
     height: 875px;
     width: 100%;
     position: relative;
+    /* display: flex;
+    justify-content: center;
+    align-items: center;  */
 }
-.square{
+/* .square{
     position: absolute;
+    left: 287px;
+    bottom: -95px;
     height: 187px;
     width: 706px;
     display: flex;
     justify-content: center;
     align-items: center;
     background-color: #FFFFFF;
-}
+}  */
