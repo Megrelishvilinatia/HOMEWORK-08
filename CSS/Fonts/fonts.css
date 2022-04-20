@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'Brandon Grotesque';
+    src: url('Brandon Grotesque/BrandonGrotesque-Light.eot');
+    src: url('Brandon Grotesque/BrandonGrotesque-Light.eot?#iefix') format('embedded-opentype'),
+        url('Brandon Grotesque/BrandonGrotesque-Light.woff2') format('woff2'),
+        url('Brandon Grotesque/BrandonGrotesque-Light.woff') format('woff'),
+        url('Brandon Grotesque/BrandonGrotesque-Light.ttf') format('truetype'),
+        url('Brandon Grotesque/BrandonGrotesque-Light.svg#BrandonGrotesque-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Brandon Grotesque Black';
+    src: url('Brandon Grotesque Black/BrandonGrotesque-Black.eot');
+    src: url('Brandon Grotesque Black/BrandonGrotesque-Black.eot?#iefix') format('embedded-opentype'),
+        url('Brandon Grotesque Black/BrandonGrotesque-Black.woff2') format('woff2'),
+        url('Brandon Grotesque Black/BrandonGrotesque-Black.woff') format('woff'),
+        url('Brandon Grotesque Black/BrandonGrotesque-Black.ttf') format('truetype'),
+        url('Brandon Grotesque Black/BrandonGrotesque-Black.svg#BrandonGrotesque-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+/* @font-face {
+    font-family: 'Kazimir Bold';
+    src: url('Kazimir Bold/Kazimir-Bold.eot');
+    src: url('Kazimir Bold/Kazimir-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Kazimir Bold/Kazimir-Bold.woff2') format('woff2'),
+        url('Kazimir Bold/Kazimir-Bold.woff') format('woff'),
+        url('Kazimir Bold/Kazimir-Bold.ttf') format('truetype'),
+        url('Kazimir Bold/Kazimir-Bold.svg#Kazimir-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+} */
+
+/* @font-face {
+    font-family: 'Libre Franklin';
+    src: url('Libre-Franklin/LibreFranklin-Bold.eot');
+    src: url('Libre-Franklin/LibreFranklin-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Libre-Franklin/LibreFranklin-Bold.woff2') format('woff2'),
+        url('Libre-Franklin/LibreFranklin-Bold.woff') format('woff'),
+        url('Libre-Franklin/LibreFranklin-Bold.ttf') format('truetype'),
+        url('Libre-Franklin/LibreFranklin-Bold.svg#LibreFranklin-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+} */
