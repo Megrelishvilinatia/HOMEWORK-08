@@ -22,6 +22,19 @@
     font-style: normal;
     font-display: swap;
 }
+@font-face {
+    font-family: 'Kazimir';
+    src: url('Kazimir/Kazimir-Regular.eot');
+    src: url('Kazimir/Kazimir-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Kazimir/Kazimir-Regular.woff2') format('woff2'),
+        url('Kazimir/Kazimir-Regular.woff') format('woff'),
+        url('Kazimir/Kazimir-Regular.ttf') format('truetype'),
+        url('Kazimir/Kazimir-Regular.svg#Kazimir-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
 /* @font-face {
     font-family: 'Kazimir Bold';
     src: url('Kazimir Bold/Kazimir-Bold.eot');
