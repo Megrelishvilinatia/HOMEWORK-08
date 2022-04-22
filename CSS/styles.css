@@ -8,13 +8,20 @@
     justify-content: space-around;
     align-items: center;
 } */
+a{
+    text-decoration: none;
+}
 
 .navbar-div{
+    text-decoration: none;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     align-items: center;
     height: 150px;
+}
+.li-1{
+    color: #36413E;
 }
 h1{
     width: 369px;
@@ -150,6 +157,7 @@ button{
     font-size: 12px;
     font-family: Brandon Grotesque;
     border: none;
+    cursor: grab;
 }
 
 /* FOOTER */
@@ -190,7 +198,6 @@ button{
     margin-left: 30px;
     color: #FFFFFF;
 } */
-
 .box{
     width: 100%;
     height: 76px;
@@ -199,6 +206,9 @@ button{
     flex-direction: row;
     justify-content: center;
     align-items: center; */
+}
+.li-2{
+    color: #FFFFFF;
 }
 .privacy{
     font-size: 12px;
